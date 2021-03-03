@@ -17,3 +17,8 @@ I am passionate about learning new things. I never stopped studying and I am alw
 [![Gmail Badge](https://img.shields.io/badge/-sebastiaohns@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sebastiaohns@gmail.com)](mailto:sebastiaohns@gmail.com)
 
 ## Sebastião Henrique Nascimento Santos
+
+
+<!--
+https://www.notion.so/GitHub-LinkedIn-NLW-9a057f4f92ab4392903ff3a588acb2ab
+-->
