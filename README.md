@@ -4,8 +4,7 @@
 
 I am passionate about learning new things. I never stopped studying and I am always looking for new challenges
 
-- 📚 I’m currently pursuing a Master's degree in Computer Science.
-- 🔬 I’m currently researching about software testing.
+- 📚 Master in Computer Science.
 - 💻 My stack is React Native, ReactJS, Node.js and Python.
 - 👯 I’m looking to collaborate on projects with React Native and ReactJS.
 - ⚡ Fun fact: I've studied virtual reality, augmented reality, image processing, computer graphics ...
